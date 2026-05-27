@@ -2,61 +2,54 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:ef4444&height=180&section=header&text=Matheus%20Queiroz&fontColor=ffffff&fontSize=44&animation=fadeIn" alt="Matheus Queiroz" width="100%" />
 </p>
 
-<h1 align="center">Web development student building practical projects</h1>
+<h1 align="center">Estudante de desenvolvimento web criando projetos práticos</h1>
 
 <p align="center">
-  <a href="https://github.com/matheusgdqueiroz-del?tab=followers"><img src="https://img.shields.io/github/followers/matheusgdqueiroz-del?label=Followers&style=for-the-badge&color=0f766e" alt="GitHub followers" /></a>
-  <a href="https://matheusgdqueiroz-del.github.io/"><img src="https://img.shields.io/badge/Portfolio-online-ef4444?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com/matheusgdqueiroz-del?tab=repositories"><img src="https://img.shields.io/badge/Repos-public-111827?style=for-the-badge" alt="Public repositories" /></a>
+  <a href="https://github.com/matheusgdqueiroz-del?tab=followers"><img src="https://img.shields.io/github/followers/matheusgdqueiroz-del?label=Seguidores&style=for-the-badge&color=0f766e" alt="Seguidores no GitHub" /></a>
+  <a href="https://matheusgdqueiroz-del.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-online-ef4444?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://github.com/matheusgdqueiroz-del?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-p%C3%BAblicos-111827?style=for-the-badge" alt="Repositórios públicos" /></a>
 </p>
 
-## About me
+## Sobre mim
 
-I am a web development student focused on turning classes, exercises and ideas into real public projects. My current path is centered on HTML, CSS, JavaScript, responsive interfaces, DOM practice, GitHub Pages and algorithm exercises.
+Sou estudante de desenvolvimento web e estou transformando aulas, exercícios e ideias em projetos públicos reais. Meu foco atual está em HTML, CSS, JavaScript, interfaces responsivas, manipulação do DOM, GitHub Pages e prática de lógica de programação.
 
-- Building a public portfolio of frontend projects and academic exercises.
-- Practicing JavaScript fundamentals, DOM manipulation and problem solving.
-- Publishing projects with GitHub Pages so each repository has a live demo.
-- Organizing my GitHub as a professional learning timeline.
+- Construindo um portfólio público com projetos de frontend e exercícios acadêmicos.
+- Praticando fundamentos de JavaScript, DOM, eventos e resolução de problemas.
+- Publicando projetos com GitHub Pages para que cada repositório tenha uma demonstração ao vivo.
+- Organizando meu GitHub como uma linha do tempo profissional de aprendizado.
 
-## Tech stack
+## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code" />
 </p>
 
-## Featured projects
+## Projetos em destaque
 
-| Project | What it shows | Links |
+| Projeto | O que demonstra | Links |
 | --- | --- | --- |
-| Portfolio | Personal site with selected projects and live links | [Site](https://matheusgdqueiroz-del.github.io/) |
-| 90-projetos-html | UI components, layouts, forms, animations and CSS practice | [Repo](https://github.com/matheusgdqueiroz-del/90-projetos-html) - [Demo](https://matheusgdqueiroz-del.github.io/90-projetos-html/) |
-| introducao-javascript | JavaScript lessons, DOM practice and logic exercises | [Repo](https://github.com/matheusgdqueiroz-del/introducao-javascript) - [Demo](https://matheusgdqueiroz-del.github.io/introducao-javascript/) |
-| Bigode-Store | Static storefront landing page with HTML and CSS | [Repo](https://github.com/matheusgdqueiroz-del/Bigode-Store) - [Demo](https://matheusgdqueiroz-del.github.io/Bigode-Store/) |
-| Linktree | Personal links page with simple responsive styling | [Repo](https://github.com/matheusgdqueiroz-del/Linktree) - [Demo](https://matheusgdqueiroz-del.github.io/Linktree/) |
-| exercicios-leetcode | Algorithm and problem-solving study notes | [Repo](https://github.com/matheusgdqueiroz-del/exercicios-leetcode) - [Demo](https://matheusgdqueiroz-del.github.io/exercicios-leetcode/) |
+| Portfólio | Site pessoal com projetos selecionados e links ao vivo | [Site](https://matheusgdqueiroz-del.github.io/) |
+| 90-projetos-html | Componentes de UI, layouts, formulários, animações e prática de CSS | [Repo](https://github.com/matheusgdqueiroz-del/90-projetos-html) - [Demo](https://matheusgdqueiroz-del.github.io/90-projetos-html/) |
+| introducao-javascript | Aulas de JavaScript, prática com DOM e exercícios de lógica | [Repo](https://github.com/matheusgdqueiroz-del/introducao-javascript) - [Demo](https://matheusgdqueiroz-del.github.io/introducao-javascript/) |
+| Bigode-Store | Página estática de loja virtual com HTML e CSS | [Repo](https://github.com/matheusgdqueiroz-del/Bigode-Store) - [Demo](https://matheusgdqueiroz-del.github.io/Bigode-Store/) |
+| Linktree | Página pessoal de links com layout simples e responsivo | [Repo](https://github.com/matheusgdqueiroz-del/Linktree) - [Demo](https://matheusgdqueiroz-del.github.io/Linktree/) |
+| exercicios-leetcode | Estudos de algoritmos e resolução de problemas | [Repo](https://github.com/matheusgdqueiroz-del/exercicios-leetcode) - [Demo](https://matheusgdqueiroz-del.github.io/exercicios-leetcode/) |
 
-## GitHub activity
+## Foco atual
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusgdqueiroz-del&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgdqueiroz-del&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
-## Current focus
-
-| Area | Focus |
+| Área | Foco |
 | --- | --- |
-| Frontend | HTML, CSS, responsive pages and visual structure |
-| JavaScript | Logic, DOM, events, functions and browser interaction |
-| Practice | Small projects, academic exercises and code organization |
-| Publishing | GitHub Pages, documentation and repository presentation |
+| Frontend | HTML, CSS, páginas responsivas e estrutura visual |
+| JavaScript | Lógica, DOM, eventos, funções e interação no navegador |
+| Prática | Projetos pequenos, exercícios acadêmicos e organização de código |
+| Publicação | GitHub Pages, documentação e apresentação dos repositórios |
 
-## Contact
+## Contato
 
-- Portfolio: [matheusgdqueiroz-del.github.io](https://matheusgdqueiroz-del.github.io/)
+- Portfólio: [matheusgdqueiroz-del.github.io](https://matheusgdqueiroz-del.github.io/)
 - GitHub: [github.com/matheusgdqueiroz-del](https://github.com/matheusgdqueiroz-del)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0f766e&height=100&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0f766e&height=100&section=footer" alt="Rodapé" width="100%" />
 </p>
